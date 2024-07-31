@@ -1,0 +1,43 @@
+.barraNavegacao {
+    color: blue;
+}
+
+.navbar-expand-lg navbar-light bg-light {
+    color: blueviolet;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.my-carousel {
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.my-carousel, .carousel-item img {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+}
+
+#carouselExampleControls {
+    width: 50%;
+    height: 50%;
+    overflow: hidden;
+}
+
+#mycarousel {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
